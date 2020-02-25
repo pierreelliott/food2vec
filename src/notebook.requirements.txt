@@ -1,0 +1,11 @@
+scikit-learn
+matplotlib
+h5py
+chart-studio
+plotly
+numpy
+pandas
+seaborn
+
+cmake # Needed for MulticoreTSNE
+multicoretsne
